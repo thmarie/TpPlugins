@@ -1,0 +1,6 @@
+C:\Users\THEO\Documents\UQAC\Developpement\TP3\HelloPlugin\bin\Debug\netstandard2.0\HelloPlugin.deps.json
+C:\Users\THEO\Documents\UQAC\Developpement\TP3\HelloPlugin\bin\Debug\netstandard2.0\HelloPlugin.dll
+C:\Users\THEO\Documents\UQAC\Developpement\TP3\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.csprojAssemblyReference.cache
+C:\Users\THEO\Documents\UQAC\Developpement\TP3\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.csproj.CoreCompileInputs.cache
+C:\Users\THEO\Documents\UQAC\Developpement\TP3\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.AssemblyInfoInputs.cache
+C:\Users\THEO\Documents\UQAC\Developpement\TP3\HelloPlugin\obj\Debug\netstandard2.0\HelloPlugin.AssemblyInfo.cs
